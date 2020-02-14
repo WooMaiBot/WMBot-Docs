@@ -19,7 +19,7 @@ X-Request-User: 777000   // 请求者的 User ID
 ## User-Agent
 
 ``` 
-WooMaiBot/2.9.0 (A Telegram Bot; Linux; curl/7.64.1; OpenSSL/1.0.2r; PHP/7.3.13; +https://t.me/s/WooMaiBotChannel)
+WooMaiBot/2.9.1 (A Telegram Bot; Linux; curl/7.64.1; OpenSSL/1.0.2r; Powered by WooMai Labs; +https://t.me/s/WooMaiBotChannel)
 ```
 
 ## About robots.txt

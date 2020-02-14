@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-/checkin
+/check_in
 ```
 
 ## Reference
