@@ -6,6 +6,14 @@ A Telegram Bot Made by WooMai Labs.
 
 [查看指令列表](Manual/Commands/index.md)
 
+## Inline 调用
+
+文档待更新
+
+## 其他功能
+
+文档待更新
+
 ## Open API
 
 Comming Soon ...
