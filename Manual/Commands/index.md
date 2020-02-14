@@ -34,4 +34,5 @@
 [Ping](Ping.md)<br>
 [TCP Ping](Tcping.md)<br>
 [获取消息数据](Dump.md)<br>
+[启用 / 关闭功能](Switch.md)<br>
 
