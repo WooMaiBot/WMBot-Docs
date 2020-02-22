@@ -18,6 +18,10 @@ A Telegram Bot Made by WooMai Labs.
 
 Comming Soon ...
 
+## About
+
+[About WooMai Bot](About.md)
+
 ## Version
 
 文档可能不会实时更新，仅供参考。
