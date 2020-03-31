@@ -1,15 +1,17 @@
 # IP 地址信息
 
-查询 IP 地址的 地理位置、运营商、ASN 等信息。
+查询 IP 地址的 地理位置、运营商、开放端口、滥用投诉等信息。
 
 ## Usage
 
 ```
-/ip <IP 地址>
+/ip <IP 地址 / 域名>
 ```
 
 ## Data Source
 
 [IPIP.net](https://www.ipip.net)
-[BGPView](https://bgpview.io/)
+[RIPEstat](https://stat.ripe.net/)
+[Shodan](https://www.shodan.io/)
+[AbuseIPDB](https://www.abuseipdb.com/)
 
