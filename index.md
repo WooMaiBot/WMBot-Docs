@@ -25,7 +25,7 @@ Comming Soon ...
 ## Version
 
 文档可能不会实时更新，仅供参考。
-当前对应 Bot 版本: 2.9.0
+当前对应 Bot 版本: 2.9.5
 
 ## Time Zone
 
@@ -33,7 +33,7 @@ Comming Soon ...
 
 ## Donation / Sponsor
 
-当前暂不公开捐赠或赞助。
+接受无偿赞助，详见 [捐赠渠道](Donate.md)
 
 ## Disclaimer
 

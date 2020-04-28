@@ -4,14 +4,13 @@
 
 ## Usage
 
-```
+``` 
 /ip <IP 地址 / 域名>
 ```
 
 ## Data Source
 
-[IPIP.net](https://www.ipip.net)
-[RIPEstat](https://stat.ripe.net/)
-[Shodan](https://www.shodan.io/)
-[AbuseIPDB](https://www.abuseipdb.com/)
-
+* [IPIP.net](https://www.ipip.net)
+* [RIPEstat](https://stat.ripe.net/)
+* [Shodan](https://www.shodan.io/)
+* [AbuseIPDB](https://www.abuseipdb.com/)
