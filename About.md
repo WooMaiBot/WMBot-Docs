@@ -54,7 +54,7 @@
 
 ## 赞助商
 
-* [次元链接](https://portal.2cy.cloud/)
+* [次元链接](https://HorizonJapan.net)
 * [ImYrS Network](https://imy.rs/)
 * [KeCloud](https://www.kecloud.net/aff.php?aff=12)
 * [qazCloud](https://chaoxi.us/)
