@@ -12,5 +12,6 @@
 
 * [IPIP.net](https://www.ipip.net)
 * [RIPEstat](https://stat.ripe.net/)
+* [MaxMind](https://www.maxmind.com/en/home)
 * [Shodan](https://www.shodan.io/)
 * [AbuseIPDB](https://www.abuseipdb.com/)
