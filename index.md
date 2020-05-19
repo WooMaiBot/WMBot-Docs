@@ -29,11 +29,11 @@ Comming Soon ...
 
 ## Time Zone
 
-如无其他说明，Bot默认使用UTC+8时区。后续可能更改或允许每个用户设置自己的时区。
+如无其他说明，Bot 默认使用 UTC+8 时区。后续可能更改或允许每个用户设置自己的时区。
 
-## Donation / Sponsor
+## Donation
 
-接受无偿赞助，详见 [捐赠渠道](Donate.md)
+接受无偿捐助，详见 [捐赠渠道](Donate.md)
 
 ## Disclaimer
 

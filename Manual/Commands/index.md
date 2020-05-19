@@ -10,7 +10,8 @@
 [网易云音乐](Netease.md)<br>
 [Bilibili 音乐](BiliMusic.md)<br>
 [翻译](Translate.md)<br>
-[货币兑换](Exchange.md)<br>
+[外汇汇率](Exchange.md)<br>
+[数字货币汇率](Huobi.md)<br>
 [获取地名信息](Location.md)<br>
 [二维码](QRCode.md)<br>
 [被墙检测](GFWTest.md)<br>
