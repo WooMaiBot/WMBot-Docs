@@ -15,7 +15,7 @@
 1ET7dTaZ1CM1nkEZJCt4Rq3DB1uRZBkxnA
 ```
 
-## TRON / USDT-TRC20
+## TRX / USDT-TRC20
 
 ```
 TMrrt2Wzm1Vcr4EDvtXL7TvLwxmcSCd3Nj
