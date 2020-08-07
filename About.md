@@ -21,6 +21,7 @@
 * [ChinaZ API](https://api.chinaz.com/)
 * [Cloudflare CDN](https://www.cloudflare.com/)
 * [Cloudflare Public DNS](https://1.1.1.1/)
+* [DNSPod Public DNS+](https://www.dnspod.cn/Products/Public.DNS)
 * [Exchange rates API](https://exchangeratesapi.io/)
 * [Google Geocoding API](https://cloud.google.com/maps-platform)
 * [Google Public DNS](https://dns.google)
@@ -55,10 +56,13 @@
 
 ## 赞助商
 
-* [次元链接](https://HorizonJapan.net)
+> 排名不分先后
+
+* [OLVPS](https://olvps.com/aff.php?aff=155)
 * [ImYrS Network](https://imy.rs/)
 * [KeCloud](https://www.kecloud.net/aff.php?aff=12)
-* [qazCloud](https://chaoxi.us/)
+* [NAT.BZ](https://nat.bz/whmcs/aff.php?aff=32)
+* [咸鱼科技](https://portal.saltyfish.io/cart.php#WooMaiBot)
 * [YToo](https://ytoo.li/)
 * [YoYu](https://home.yoyu.dev/aff.php?aff=28)
 
