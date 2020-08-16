@@ -4,7 +4,14 @@
 
 ## Usage
 
+### IPv4
+
 ```
 /ping <Host> [次数]
 ```
 
+### IPv6
+
+```
+/ping6 <Host> [次数]
+```
