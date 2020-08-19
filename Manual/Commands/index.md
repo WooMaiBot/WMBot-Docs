@@ -36,4 +36,7 @@
 [TCP Ping](Tcping.md)<br>
 [获取消息数据](Dump.md)<br>
 [启用 / 关闭功能](Switch.md)<br>
+[Bilibili BVav 互转](Bilibili_BV2av.md)<br>
+[随机数字](Rand.md)<br>
+[随机字符串](RandStr.md)<br>
 

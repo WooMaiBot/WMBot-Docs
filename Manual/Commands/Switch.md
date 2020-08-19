@@ -21,7 +21,6 @@
 
 `feature` 可选项详见下方列表。
 
-
 ## 支持的功能
 
 | 功能名称 | 填写项 | 默认 |
@@ -31,3 +30,9 @@
 | 特殊功能(彩蛋) | special | 启用 |
 | 加群验证 | captcha | 禁用 |
 | 链接嗅探 | linktest | 禁用 |
+| YouTube 视频信息 | youtube_link | 启用 |
+| Bilibili 视频信息 | bilibili_link | 启用 |
+| Steam 个人资料 | steam_link | 启用 |
+| E-Hentai 画廊信息 | ehentai_link | 启用 |
+| PornHub 视频信息 | pornhub_link | 启用 |
+| Shadowsocks(R) 链接解析 | ss_url | 启用 |

@@ -45,6 +45,7 @@
 ## 使用的工具
 
 * [Aria2](https://github.com/aria2/aria2)
+* [BestTrace](https://www.ipip.net/product/client.html)
 * [DNSGrep](https://github.com/erbbysam/DNSGrep)
 * [GO Simple Tunnel](https://github.com/ginuerzh/gost)
 * [libwebp](https://chromium.googlesource.com/webm/libwebp)
