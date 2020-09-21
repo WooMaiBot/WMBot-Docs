@@ -28,7 +28,6 @@
 * [Google Time Zone API](https://cloud.google.com/maps-platform)
 * [Google Translate](https://translate.google.com/)
 * [Huobi Global](https://www.huobi.com/)
-* [IP.SB](https://ip.sb)
 * [IPIP.net](https://www.ipip.net)
 * [MaxMind GeoLite2](https://dev.maxmind.com/geoip/geoip2/geolite2/)
 * [Md5decrypt](https://md5decrypt.net/en/)
