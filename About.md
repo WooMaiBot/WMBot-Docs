@@ -60,9 +60,7 @@
 
 * [OLVPS](https://olvps.com/aff.php?aff=155)
 * [ImYrS Network](https://imy.rs/)
-* [KeCloud](https://www.kecloud.net/aff.php?aff=12)
 * [NAT.BZ](https://nat.bz/whmcs/aff.php?aff=32)
 * [咸鱼科技](https://portal.saltyfish.io/cart.php#WooMaiBot)
 * [YToo](https://ytoo.li/)
-* [YoYu](https://home.yoyu.dev/aff.php?aff=28)
-
+* [普拉斯影业](https://t.me/Plus_Movie_Best)
