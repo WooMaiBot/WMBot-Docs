@@ -25,7 +25,7 @@ Comming Soon ...
 ## Version
 
 文档可能不会实时更新，仅供参考。
-当前对应 Bot 版本: 2.11.1
+当前对应 Bot 版本: 2.11.2
 
 ## Time Zone
 
