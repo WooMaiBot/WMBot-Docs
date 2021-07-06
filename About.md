@@ -56,11 +56,7 @@
 
 ## 赞助商
 
-> 排名不分先后
-
 * [OLVPS](https://olvps.com/aff.php?aff=155)
-* [ImYrS Network](https://imy.rs/)
-* [NAT.BZ](https://nat.bz/whmcs/aff.php?aff=32)
+* [双榨杨桃油柑](https://9s.gs/TUb)
 * [咸鱼科技](https://portal.saltyfish.io/cart.php#WooMaiBot)
-* [YToo](https://ytoo.li/)
-* [普拉斯影业](https://t.me/Plus_Movie_Best)
+* [ImYrS Network](https://imy.rs/)
