@@ -56,7 +56,7 @@
 
 ## 赞助商
 
-* [OLVPS](https://olvps.com/aff.php?aff=155)
+* [OLVPS](https://9s.gs/3TR)
 * [双榨杨桃油柑](https://9s.gs/TUb)
-* [咸鱼科技](https://portal.saltyfish.io/cart.php#WooMaiBot)
+* [AkkoCloud](https://9s.gs/nDk)
 * [ImYrS Network](https://imy.rs/)
