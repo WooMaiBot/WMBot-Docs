@@ -22,11 +22,6 @@ Comming Soon ...
 
 [About WooMai Bot](About.md)
 
-## Version
-
-文档可能不会实时更新，仅供参考。
-当前对应 Bot 版本: 2.11.3
-
 ## Time Zone
 
 如无其他说明，Bot 默认使用 UTC+8 时区。后续可能更改或允许每个用户设置自己的时区。
