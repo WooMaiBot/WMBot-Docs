@@ -32,4 +32,8 @@ Bot 默认使用 UTC+8 时区。
 * [天气查询](command/weather.md)
 * [WHOIS](command/whois.md)
 
+## 群组功能设置
 
+群组管理员可以设置在群组内开启或关闭某些功能。如入群验证、连接探测等。
+
+使用方式请参见[群组功能设置](group/functions.md)。
