@@ -1,38 +1,22 @@
-# WooMai Bot
+# WooMai Bot Documents
 
-A Telegram Bot Made by WooMai Labs.
+Documentation for [@WooMaiBot](https://t.me/WooMaiBot).
 
-## Commands
+[Telegram 频道](https://t.me/WooMaiBotChannel)
 
-[查看指令列表](Manual/Commands/index.md)
+[WooMai Bot 使用手册](manual/index.md)
 
-## Inline 调用
+## Sponsors
 
-文档待更新
-
-## 其他功能
-
-文档待更新
-
-## Open API
-
-Comming Soon ...
+[OLVPS](https://9s.gs/3TR)
 
 ## About
 
-[About WooMai Bot](About.md)
+[About WooMai Bot](about.md)
 
-## Time Zone
+## Donation / Sponsorship
 
-如无其他说明，Bot 默认使用 UTC+8 时区。后续可能更改或允许每个用户设置自己的时区。
-
-## Donation
-
-接受无偿捐助，详见 [捐赠渠道](Donate.md)
-
-## Sponsorship
-
-成为赞助商目前为邀请制，暂不接受主动联系。
+[捐赠](donate.md)
 
 ## Disclaimer
 
@@ -42,6 +26,5 @@ Comming Soon ...
 
 ## Contact
 
-bot-support@woomail.net<br>
 xiaomai@wmlabs.net
 

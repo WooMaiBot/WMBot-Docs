@@ -1,7 +1,7 @@
 # WMBot-Docs
 
-Telegram @WooMaiBot 相关文档
+Documents of Telegram [@WooMaiBot](https://t.me/woomaibot)
 
-## LICENSE
+## License
 
-本文档使用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
+Documents is licensed under the [CC BY-ND 4.0] license.
