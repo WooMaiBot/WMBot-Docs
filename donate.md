@@ -29,52 +29,71 @@
 
 ## 推荐捐赠方式
 
-### Patreon
+### Patreon (PayPal, Credit Card, etc.)
 
 https://www.patreon.com/WooMai
 
-## ETH (或任何 EVM 链, BSC, AVAX, etc.)
+### TRX (TRC-20)
 
-```
-0x666666666e56356B423537B017c2992CEf746015
-```
-
-## BTC (BCH, BSV, etc.)
-
-```
-1ET7dTaZ1CM1nkEZJCt4Rq3DB1uRZBkxnA
-```
-
-## TRX
+[View on TRONSCAN](https://tronscan.org/#/address/TMrrt2Wzm1Vcr4EDvtXL7TvLwxmcSCd3Nj)
 
 ```
 TMrrt2Wzm1Vcr4EDvtXL7TvLwxmcSCd3Nj
 ```
 
-## TON
+### ETH (ERC-20, BSC, BEP-20, AVAX, etc.)
+
+[View on Blockscan](https://blockscan.com/address/0x666666666e56356B423537B017c2992CEf746015)
+
+[View on Etherscan](https://etherscan.io/address/0x666666666e56356B423537B017c2992CEf746015)
+
+[View on BscScan](https://bscscan.com/address/0x666666666e56356B423537B017c2992CEf746015)
+
+```
+0x666666666e56356B423537B017c2992CEf746015
+```
+
+### BTC (BCH, BSV, etc.)
+
+[View on BlockChair](https://blockchair.com/search?q=1ET7dTaZ1CM1nkEZJCt4Rq3DB1uRZBkxnA)
+
+```
+1ET7dTaZ1CM1nkEZJCt4Rq3DB1uRZBkxnA
+```
+
+### TON
+
+[View on TONSCAN](https://tonscan.org/address/EQA_VjsNHKJCaO7CSIyPNZghIUF5v-bEBxQ0Or8BlB5EoUsl)
 
 ```
 EQA_VjsNHKJCaO7CSIyPNZghIUF5v-bEBxQ0Or8BlB5EoUsl
 ```
 
-## DASH
+### DASH
+
+[View on BlockChair](https://blockchair.com/dash/address/Xua3HQ6U73srLBaA4LgTsSQygWjtzaY4K5)
 
 ```
 Xua3HQ6U73srLBaA4LgTsSQygWjtzaY4K5
 ```
 
-## XMR
+### XMR
 
 ```
 84X4MJuo2GZCDfjJNKZjXA5NAJknRRnMDawq6V84YFAR7iCqvV11nocE7o713gerdtXoYcRWFwQ8jRfzTLDwUMHCEPzBaUE
 ```
 
-## LTC
+### LTC
+
+[View on BlockChair](https://blockchair.com/litecoin/address/LTfUvckpgU7HhGq8gynTg8yXnS4Kwe4uhP)
 
 ```
 LTfUvckpgU7HhGq8gynTg8yXnS4Kwe4uhP
 ```
 
-## 其他方式
+<!-- ### 爱发电
+ -->
+
+### 其他方式
 
 请邮件联系。
