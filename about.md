@@ -15,7 +15,7 @@
 ## Special Thanks
 
 * [OLVPS](https://9s.gs/3TR)
-* [双榨杨桃油柑](https://9s.gs/TUb)
+* [每日射精管理](https://t.me/Dailyshejing_cos)
 * [ImYrS Network](https://imyrs.com)
 * [HostEvaluate](https://t.me/HostEvaluate)
 
